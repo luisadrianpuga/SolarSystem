@@ -1,2 +1,2 @@
 # SolarSystem
-Physics ! Calculus Project
+Physics I Calculus Project
